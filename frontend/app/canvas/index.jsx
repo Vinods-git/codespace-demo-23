@@ -1,7 +1,7 @@
 export default function Canvas() {
     return (
         <div>
-            Enter
+            Canvas
         </div>
     );
 }
