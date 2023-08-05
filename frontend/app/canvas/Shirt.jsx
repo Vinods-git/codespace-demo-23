@@ -26,7 +26,6 @@ const Shirt = () => {
         material-roughness={1}
         dispose={null}
       >
-        <Environment files="potsdamer_platz_1k.hdr"/>
         {snap.isFullTexture && (
           <Decal 
             position={[0, 0, 0]}
